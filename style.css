@@ -1,0 +1,15 @@
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    border-bottom: 3px solid;
+    font-family: 'Lora', serif;
+    color: black;
+}
+
+p{
+    font-family: 'Lobster', cursive;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+}
+
